@@ -1,0 +1,10 @@
+include LICENSE
+include README.rst
+recursive-include spcc/static *
+recursive-include spcc/templates *
+recursive-include spcc/urls *
+recursive-include spcc/models *
+recursive-include spcc/views *
+recursive-include spcc/forms *
+recursive-include spcc/libs *
+recursive-include docs *
